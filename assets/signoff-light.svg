@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" fill="none">
+<style>
+.serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+.sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+.ink { fill: #1f2328; } .sub { fill: #59636e; } .mute { fill: #8c959f; }
+.acc { fill: #e8590c; } .grn { fill: #1a7f37; }
+/* every element's resting state is the finished picture; motion is only added on top,
+   so renderers that don't animate (mobile app, previews) still show everything */
+.rise { }
+.pulse { animation: pulse 2.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<line x1="2" y1="30" x2="998" y2="30" stroke="#d0d7de"/>
+<text x="500" y="66" class="serif sub" font-size="17" font-style="italic" text-anchor="middle">built, measured, shipped. <tspan class="acc">—</tspan> sujal</text>
+
+</svg>
