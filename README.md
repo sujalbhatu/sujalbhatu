@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Sujal Bhatu, software engineer. I build systems, then I measure them. A live trace of one OpenForge question: language detection, query expansion, hybrid search, reranking and a streamed answer, 2.36 seconds end to end.">
+  <img src="assets/hero-light.svg" width="100%" alt="SUJAL BHATU, drawn as a neural network: about 1,100 nodes wired into the letters, with signals travelling through them. Software engineer, backend and applied ML, NIT Jamshedpur. Production systems, and the machine learning inside them. Recall@5 0.30 to 0.87 on OpenForge, roll-call 10 minutes to under 25 seconds on RollOne, EEG channels 22 to 5.">
 </picture>
 
 <p align="center">
