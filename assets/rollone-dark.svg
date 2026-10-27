@@ -19,18 +19,18 @@
   <rect x="36" y="43" width="9" height="9" fill="#ff7a45"/>
   <text x="54" y="52" class="mono ink" font-size="12.5" font-weight="600" letter-spacing="2.4">ROLLONE · CAMPUSTRACK</text>
   <circle class="pulse" cx="272" cy="48" r="4" fill="#3fb950"/><text x="282" y="52" class="mono grn" font-size="11.5">live</text>
-  <text x="34" y="104" class="serif ink" font-size="34" letter-spacing="-.6">Roll-call in 25 seconds, not 15 minutes.</text>
+  <text x="34" y="104" class="serif ink" font-size="28.1" letter-spacing="-.6">Roll-call in under 25 seconds, not 10 minutes.</text>
   <text x="36" y="140" class="sans sub" font-size="15">QR attendance nobody can proxy from the canteen: tokens that die every</text>
   <text x="36" y="162" class="sans sub" font-size="15">4 s, a 35 m geofence and a face check, for a whole lecture hall at once.</text>
 </g>
 <line x1="620" y1="96" x2="620" y2="390" stroke="#30363d"/>
 <text x="650" y="104" class="mono mute" font-size="11" letter-spacing="1.6">MEASURED</text>
 
-  <text x="650" y="128" class="sans sub" font-size="12.5">Students marked, 120 at once</text>
-  <text x="950" y="128" class="mono ink" font-size="13" font-weight="600" text-anchor="end"><tspan class="mute" font-weight="400">— → </tspan><tspan class="grn">120/120</tspan></text>
+  <text x="650" y="128" class="sans sub" font-size="12.5">Median scan, QR to marked</text>
+  <text x="950" y="128" class="mono ink" font-size="13" font-weight="600" text-anchor="end"><tspan class="mute" font-weight="400">— → </tspan><tspan class="grn">0.7 s</tspan></text>
   <rect x="650" y="139" width="300" height="6" rx="3" fill="#161b22"/>
   <rect x="650" y="139" width="0.0" height="6" rx="3" fill="#6e7681" opacity=".55"/>
-  <rect class="bar" style="animation-delay:0.40s" x="650" y="152" width="300.0" height="6" rx="3" fill="#3fb950"/>
+  <rect class="bar" style="animation-delay:0.40s" x="650" y="152" width="21.0" height="6" rx="3" fill="#3fb950"/>
   <rect x="650" y="152" width="300" height="6" rx="3" fill="none"/>
   <text x="650" y="194" class="sans sub" font-size="12.5">Errors under load (k6)</text>
   <text x="950" y="194" class="mono ink" font-size="13" font-weight="600" text-anchor="end"><tspan class="mute" font-weight="400">— → </tspan><tspan class="grn">0%</tspan></text>
@@ -39,10 +39,10 @@
   <rect class="bar" style="animation-delay:0.65s" x="650" y="218" width="3.6" height="6" rx="3" fill="#3fb950"/>
   <rect x="650" y="218" width="300" height="6" rx="3" fill="none"/>
   <text x="650" y="260" class="sans sub" font-size="12.5">Face check, per face</text>
-  <text x="950" y="260" class="mono ink" font-size="13" font-weight="600" text-anchor="end"><tspan class="mute" font-weight="400">146 ms → </tspan><tspan class="grn">67 ms</tspan></text>
+  <text x="950" y="260" class="mono ink" font-size="13" font-weight="600" text-anchor="end"><tspan class="mute" font-weight="400">145 ms → </tspan><tspan class="grn">66 ms</tspan></text>
   <rect x="650" y="271" width="300" height="6" rx="3" fill="#161b22"/>
   <rect x="650" y="271" width="300.0" height="6" rx="3" fill="#6e7681" opacity=".55"/>
-  <rect class="bar" style="animation-delay:0.90s" x="650" y="284" width="138.0" height="6" rx="3" fill="#3fb950"/>
+  <rect class="bar" style="animation-delay:0.90s" x="650" y="284" width="136.5" height="6" rx="3" fill="#3fb950"/>
   <rect x="650" y="284" width="300" height="6" rx="3" fill="none"/>
   <text x="650" y="326" class="sans sub" font-size="12.5">Upload per camera frame</text>
   <text x="950" y="326" class="mono ink" font-size="13" font-weight="600" text-anchor="end"><tspan class="mute" font-weight="400">2.4 MB → </tspan><tspan class="grn">15 KB</tspan></text>

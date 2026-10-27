@@ -47,7 +47,7 @@
   <text x="740" y="96" class="mono ink" font-size="30" font-weight="600">99.60<tspan class="mute" font-size="20">%</tspan></text>
   <text x="740" y="118" class="mono mute" font-size="10.5" letter-spacing="1.4">IRIS MATCH · CASIA-V1</text>
   <text x="740" y="304" class="sans sub" font-size="12.5">Daugman IrisCode + multi-scale</text>
-  <text x="740" y="321" class="sans sub" font-size="12.5">ResNet-50. False accepts 6.3% → 0.19%.</text>
+  <text x="740" y="321" class="sans sub" font-size="12.5">ResNet-50. False accepts 6.3% → 0.15%.</text>
 </g>
 
 </svg>

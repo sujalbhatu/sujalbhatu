@@ -40,7 +40,7 @@
   <line x1="48" y1="318" x2="520" y2="318" stroke="#d0d7de"/>
   <text x="48" y="352" class="mono ink" font-size="20" font-weight="600">0.30<tspan class="mute"> → </tspan><tspan class="grn">0.87</tspan></text>
   <text x="48" y="374" class="mono mute" font-size="11" letter-spacing="1">RECALL@5 · OPENFORGE</text>
-  <text x="222" y="352" class="mono ink" font-size="20" font-weight="600">15 min<tspan class="mute"> → </tspan><tspan class="grn">25 s</tspan></text>
+  <text x="222" y="352" class="mono ink" font-size="20" font-weight="600">10 min<tspan class="mute"> → </tspan><tspan class="grn">&lt;25 s</tspan></text>
   <text x="222" y="374" class="mono mute" font-size="11" letter-spacing="1">ROLL-CALL · ROLLONE</text>
   <text x="412" y="352" class="mono ink" font-size="20" font-weight="600">22<tspan class="mute"> → </tspan><tspan class="grn">5</tspan></text>
   <text x="412" y="374" class="mono mute" font-size="11" letter-spacing="1">EEG CHANNELS</text>
@@ -62,7 +62,7 @@
   <rect x="762" y="177" width="130" height="14" rx="3" fill="#f3f5f7"/>
   <rect class="g1" x="763.0" y="177" width="30.2" height="14" rx="3" fill="#e8590c"/>
   <text x="944" y="188" class="mono sub" font-size="11.5" text-anchor="end">580 ms</text>
-  <text x="594" y="228" class="mono ink" font-size="12.5">search.hybrid<tspan class="mute"> bm25+dense</tspan></text>
+  <text x="594" y="228" class="mono ink" font-size="12.5">search<tspan class="mute"> bm25+dense</tspan></text>
   <rect x="762" y="217" width="130" height="14" rx="3" fill="#f3f5f7"/>
   <rect class="g2" x="793.2" y="217" width="8.3" height="14" rx="3" fill="#1a7f37"/>
   <text x="944" y="228" class="mono sub" font-size="11.5" text-anchor="end">160 ms</text>

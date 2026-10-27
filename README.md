@@ -30,7 +30,7 @@
 <a href="https://campustrack.openforge.online">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/rollone-dark.svg">
-    <img src="assets/rollone-light.svg" width="100%" alt="RollOne / CampusTrack: roll-call in 25 seconds, not 15 minutes. QR tokens signed with HMAC that expire every 4 seconds, a 35 m geofence and a batched face check. Load test: 120 of 120 students marked with 0% errors; face checks 146 ms to 67 ms per face; upload per frame 2.4 MB to 15 KB.">
+    <img src="assets/rollone-light.svg" width="100%" alt="RollOne / CampusTrack: roll-call in under 25 seconds, not 10 minutes. QR tokens signed with HMAC that expire every 4 seconds, a 35 m geofence and a batched face check. Median scan 0.7 s; 0% errors under load; face checks 145 ms to 66 ms per face; upload per frame 2.4 MB to 15 KB.">
   </picture>
 </a>
 
@@ -43,7 +43,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
-  <img src="assets/research-light.svg" width="100%" alt="GGCS: a gated graph convolution network that selects 5 of 22 EEG electrodes for motor-imagery classification, 77% less hardware, under review at Neural Computing and Applications. Hybrid iris recognition: Daugman IrisCode plus a multi-scale ResNet-50, 99.60% on CASIA-Iris-V1, false accepts down from 6.3% to 0.19%.">
+  <img src="assets/research-light.svg" width="100%" alt="GGCS: a gated graph convolution network that selects 5 of 22 EEG electrodes for motor-imagery classification, 77% less hardware, under review at Neural Computing and Applications. Hybrid iris recognition: Daugman IrisCode plus a multi-scale ResNet-50, 99.60% on CASIA-Iris-V1, false accepts down from 6.3% to 0.15%.">
 </picture>
 
 <p align="right"><sub><a href="https://github.com/sujalbhatu/EEG-channel-classification">GGCS source ↗</a> &nbsp; <a href="https://github.com/sujalbhatu/IRISH">iris source ↗</a></sub></p>
