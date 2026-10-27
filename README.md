@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="SUJAL BHATU, drawn as a neural network: about 1,100 nodes wired into the letters, with signals travelling through them. Software engineer, backend and applied ML, NIT Jamshedpur. Production systems, and the machine learning inside them. Recall@5 0.30 to 0.87 on OpenForge, roll-call 10 minutes to under 25 seconds on RollOne, EEG channels 22 to 5.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sheet-01-dark.svg">
+  <img src="assets/sheet-01-light.svg" width="100%" alt="Engineering drawing, sheet 01, general arrangement. An exploded isometric stack of four layers: interface (React, Vite, SSE streams), services (Node, Express, Flask, Redis), intelligence (retrieval, rerankers, GNNs) and data (PostgreSQL, ChromaDB, Mongo), dimensioned 'one engineer, full stack'. Sujal Bhatu, software engineer, backend and applied ML, NIT Jamshedpur. General notes: two systems in production; one paper under peer review; Amazon ML Challenge 2026 top 1,000 worldwide; 600+ DSA problems, Codeforces max 1266; mentors rural students for Navodaya exams; all figures shown are measured.">
 </picture>
 
 <p align="center">
@@ -11,17 +11,10 @@
   <a href="mailto:sujalbhatu565@gmail.com">sujalbhatu565@gmail.com</a>
 </p>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-work-dark.svg">
-  <img src="assets/label-work-light.svg" width="100%" alt="01 Selected work">
-</picture>
-
 <a href="https://openforge.online">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/openforge-dark.svg">
-    <img src="assets/openforge-light.svg" width="100%" alt="OpenForge: Indian law, answered from the statute. Pipeline: browser, Node gateway, BM25 plus dense retrieval, cross-encoder rerank, cited LLM answer. Measured: right section in the top 5 went from 0.30 to 0.87, hallucinated claims from 72.7% to 34.5%, uncited section numbers from 75% to 0%, answer time on a 1 GB VM from 10-15 s to 1.4-4.5 s.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sheet-02-dark.svg">
+    <img src="assets/sheet-02-light.svg" width="100%" alt="Sheet 02, OpenForge, a legal RAG assistant, live at openforge.online. Schematic: browser, gateway, understand, BM25 and dense retrieval in parallel merged by reciprocal rank fusion, Jina rerank with local fallback, LLM, cited answer; stage times 0.6 s, 0.16 s, 0.6 s and 1.0 s streamed, about 2.4 s for a typical question on a 1 GB VM, 1.4 to 4.5 s measured range. Specification: 123 central Acts, 10,712 sections; 14 languages; recursive-summary memory, 30% fewer tokens; every claim cites its source. Test report, before to after: right section in top 5 0.30 to 0.87; MRR 0.23 to 0.67; hallucinated claims 72.7% to 34.5%; uncited section numbers 75% to 0%; answer time 10-15 s to 1.4-4.5 s. Stamped passed, eval of 115 questions.">
   </picture>
 </a>
 
@@ -29,49 +22,23 @@
 
 <a href="https://campustrack.openforge.online">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/rollone-dark.svg">
-    <img src="assets/rollone-light.svg" width="100%" alt="RollOne / CampusTrack: roll-call in under 25 seconds, not 10 minutes. QR tokens signed with HMAC that expire every 4 seconds, a 35 m geofence and a batched face check. Median scan 0.7 s; 0% errors under load; face checks 145 ms to 66 ms per face; upload per frame 2.4 MB to 15 KB.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sheet-03-dark.svg">
+    <img src="assets/sheet-03-light.svg" width="100%" alt="Sheet 03, RollOne, proxy-proof attendance, live at campustrack.openforge.online. Floor plan of a lecture hall with 120 seats filling as students check in, a screen showing an HMAC-signed QR token that regenerates every 4 seconds, and a 35 m geofence drawn around the lectern. Check-in sequence: scan, locate, verify face, mark. Performance, before to after: roll-call for the whole hall 10 minutes to under 25 seconds; median scan 0.7 s; face check 145 ms to 66 ms per face; upload per frame 2.4 MB to 15 KB; 0% errors with 120 students at once.">
   </picture>
 </a>
 
 <p align="right"><sub><a href="https://campustrack.openforge.online">try it ↗</a> &nbsp; <a href="https://github.com/sujalbhatu/Attendence_System">source ↗</a></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-research-dark.svg">
-  <img src="assets/label-research-light.svg" width="100%" alt="02 Research">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
-  <img src="assets/research-light.svg" width="100%" alt="GGCS: a gated graph convolution network that selects 5 of 22 EEG electrodes for motor-imagery classification, 77% less hardware, under review at Neural Computing and Applications. Hybrid iris recognition: Daugman IrisCode plus a multi-scale ResNet-50, 99.60% on CASIA-Iris-V1, false accepts down from 6.3% to 0.15%.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sheet-04-dark.svg">
+  <img src="assets/sheet-04-light.svg" width="100%" alt="Sheet 04, research plates, NIT Jamshedpur MVI Lab. Plate A: EEG montage of the BCI IV-2a dataset, 22 channels; GGCS, a gated graph convolution network, selects 5 (selection shown is illustrative), 77% less hardware; under review at Neural Computing and Applications. Plate B: iris cross-section with pupil and iris radii, unwrapped into a rubber-sheet strip and an IrisCode; 99.60% match accuracy on CASIA-Iris-V1, false accepts 6.3% to 0.15%, IrisCode plus a multi-scale ResNet-50.">
 </picture>
 
 <p align="right"><sub><a href="https://github.com/sujalbhatu/EEG-channel-classification">GGCS source ↗</a> &nbsp; <a href="https://github.com/sujalbhatu/IRISH">iris source ↗</a></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-tools-dark.svg">
-  <img src="assets/label-tools-light.svg" width="100%" alt="03 Toolbox">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sheet-05-dark.svg">
+  <img src="assets/sheet-05-light.svg" width="100%" alt="Sheet 05, bill of materials. Languages: C++, Python, TypeScript, JavaScript, Java, SQL. Backend: Node, Express, Flask, REST, SSE, JWT, WebSockets. Data: PostgreSQL, Redis, MongoDB, ChromaDB, BM25. Machine learning: PyTorch, GNNs, rerankers, OpenCV, FaceNet. Shipping: Linux, systemd, Nginx, Docker, GitHub Actions, k6. Approved for production, signed Sujal Bhatu, stamped shipped: built, measured, live.">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
-  <img src="assets/toolbox-light.svg" width="100%" alt="Languages: C++, Python, JavaScript, TypeScript, Java, SQL. Backend: Node and Express, Flask and Django, REST and SSE, JWT and OAuth, WebSockets. Data: PostgreSQL, MongoDB, Redis, ChromaDB, BM25 and vectors. ML: PyTorch, RAG and rerankers, GNNs, OpenCV, scikit-learn. Shipping: Linux and systemd, Nginx, Docker, GitHub Actions, k6 load tests.">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-more-dark.svg">
-  <img src="assets/label-more-light.svg" width="100%" alt="04 Elsewhere">
-</picture>
-
-| | |
-|---|---|
-| **Competitive programming** | 600+ problems · [Codeforces](https://codeforces.com/profile/sujalbhatu) max 1266 · 4th at CodeKarma |
-| **Amazon ML Challenge 2026** | [Top 1,000 worldwide](https://github.com/sujalbhatu/Amazon-ML-Hackathon), entity resolution at scale |
-| **More builds** | [Bone health classifier](https://github.com/sujalbhatu/Automated-Classification-of-Bone-Health) · [Indian sign language detection](https://github.com/shivapreetham/indian-sign-language-detection) |
-| **Off the keyboard** | Mentoring rural school kids for the Navodaya entrance exam with Sankalp Club |
-| **Ask me about** | why your RAG hallucinates · SSE vs WebSockets · how many EEG channels you *really* need |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/signoff-dark.svg">
-  <img src="assets/signoff-light.svg" width="100%" alt="Built, measured, shipped. Sujal.">
-</picture>
+<p align="center"><sub>also: <a href="https://github.com/sujalbhatu/Amazon-ML-Hackathon">amazon ml challenge</a> · <a href="https://github.com/sujalbhatu/Automated-Classification-of-Bone-Health">bone health classifier</a> · <a href="https://github.com/shivapreetham/indian-sign-language-detection">indian sign language detection</a></sub></p>
