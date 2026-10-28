@@ -4,9 +4,10 @@
 </picture>
 
 <p align="center">
+  <a href="https://sujalbhatu.github.io/portfolio/"><b>portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://openforge.online"><b>openforge.online</b></a> &nbsp;·&nbsp;
   <a href="https://campustrack.openforge.online">campustrack</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/sujalbhatu">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sujal-bhatu-19027429a/">linkedin</a> &nbsp;·&nbsp;
   <a href="https://codeforces.com/profile/sujalbhatu">codeforces</a> &nbsp;·&nbsp;
   <a href="mailto:sujalbhatu565@gmail.com">sujalbhatu565@gmail.com</a>
 </p>
